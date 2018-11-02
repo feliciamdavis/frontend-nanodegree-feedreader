@@ -1,11 +1,12 @@
 # What is it
-This is a website with links to different articles. There are four different categories of articles to choose from. The categories range from Udacity Blogs to things articles about HTML and CSS.
+This is a school project for my Nanodegree program. The code for the website was provided. The project was to use Jasmine to test the code. 
+This is a website with links to different articles. There are four different categories of articles to choose from. The categories range from Udacity Blogs to things like articles about HTML and CSS.
 
-# How to get started
+# Where to get it
 
 
 # How to use
-To switch between categories, use the hamburger icon on the left hand side of the page. When you click the icon there will be a menu of links to the different categories you can choose from. Once you have your chosen category, you can scroll through the different article titles until you find one you want to read. Click that article title and you will be redirected to the location of that article.
+To switch between categories, use the hamburger icon at the top left of the page. When you click the icon there will be a menu of links to the different categories you can choose from. Once you have your chosen category, you can scroll through the different article titles until you find one you want to read. Click that article title and you will be redirected to the location of that article.
 
 # Project Overview
 
