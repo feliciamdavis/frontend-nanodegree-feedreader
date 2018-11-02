@@ -3,7 +3,9 @@ This is a school project for my Nanodegree program. The code for the website was
 This is a website with links to different articles. There are four different categories of articles to choose from. The categories range from Udacity Blogs to things like articles about HTML and CSS.
 
 # Where to get it
+To access, download or clone from:
 
+https://github.com/feliciamdavis/frontend-nanodegree-feedreader
 
 # How to use
 To switch between categories, use the hamburger icon at the top left of the page. When you click the icon there will be a menu of links to the different categories you can choose from. Once you have your chosen category, you can scroll through the different article titles until you find one you want to read. Click that article title and you will be redirected to the location of that article.
