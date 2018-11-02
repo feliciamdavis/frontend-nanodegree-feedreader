@@ -1,3 +1,12 @@
+# What is it
+This is a website with links to different articles. There are four different categories of articles to choose from. The categories range from Udacity Blogs to things articles about HTML and CSS.
+
+# How to get started
+
+
+# How to use
+To switch between categories, use the hamburger icon on the left hand side of the page. When you click the icon there will be a menu of links to the different categories you can choose from. Once you have your chosen category, you can scroll through the different article titles until you find one you want to read. Click that article title and you will be redirected to the location of that article.
+
 # Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
@@ -44,5 +53,5 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 17. No test should be dependent on the results of another.
 18. Callbacks should be used to ensure that feeds are loaded before they are tested.
 19. Implement error handling for undefined variables and out-of-bound array access.
-20. When complete - all of your tests should pass. 
+20. When complete - all of your tests should pass.
 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
